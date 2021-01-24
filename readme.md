@@ -2,9 +2,8 @@
 
 ## Simple
 
-<script src="https://gist.github.com/rchrd2/c94eb4701da57ce9a0ad4d2b00794131.js"></script>
-
-- https://stackoverflow.com/questions/2140419/how-do-i-make-a-request-using-http-basic-authentication-with-php-curl
+- https://gist.github.com/rchrd2/c94eb4701da57ce9a0ad4d2b00794131
+  - https://stackoverflow.com/questions/2140419/how-do-i-make-a-request-using-http-basic-authentication-with-php-curl
 
 - https://www.devdungeon.com/content/http-basic-authentication-php
 
