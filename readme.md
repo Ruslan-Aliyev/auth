@@ -9,6 +9,8 @@
 
 ## JWT
 
+- Good intro explaination: https://www.youtube.com/watch?v=soGRyl9ztjI
+
 - https://www.youtube.com/playlist?list=PLCakfctNSHkGQ6S557u-6sLEYsfWje47P
 
 - https://www.youtube.com/playlist?list=PLe30vg_FG4OQRZhQY57FCIyk1cPGDAc6k
